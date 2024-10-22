@@ -1,4 +1,4 @@
-# Cześć, jestem [Twoje Imię] 👋
+# Cześć, jestem Tomasz 👋
 
 ## O mnie
 
