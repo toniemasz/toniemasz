@@ -2,7 +2,7 @@
 
 ## O mnie
 
-Jestem programistą z pasją do technologii i analizy danych. Moje główne obszary zainteresowań to programowanie w językach Java i Python, a także techniki związane z programowaniem obiektowym. Aktualnie piszę pracę licencjacką na temat analizy danych w przedsiębiorstwach, a także pracuję nad projektami, które wykorzystują statystyki do predykcji wyników w e-sportach.
+
 
 ## Umiejętności
 
