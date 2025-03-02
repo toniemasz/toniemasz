@@ -11,7 +11,7 @@
 
 ## Projekty
 
-- **[Nazwa projektu 1]** - Krótkie opisanie projektu i technologii użytych w projekcie.
+- **Power BI** - <a href="https://github.com/toniemasz/PowerBI_projects" target="_blank"><button>Zobacz projekty</button></a>
 - **[Nazwa projektu 2]** - Krótkie opisanie projektu i technologii użytych w projekcie.
 - **[Nazwa projektu 3]** - Krótkie opisanie projektu i technologii użytych w projekcie.
 
