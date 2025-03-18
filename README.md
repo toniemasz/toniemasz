@@ -17,6 +17,8 @@ Jestem studentem 3. roku Informatyki i Ekonomii na Uniwersytecie Ekonomicznym w 
 - **Przewidywanie wyników meczów piłki nożnej** -  
   Projekt oparty na uczeniu maszynowym, w którym analizuję dane o meczach piłki nożnej, aby przewidzieć wyniki przyszłych spotkań. Używam algorytmów klasyfikacji i regresji, a także różnych technik obróbki danych, w tym analiz statystycznych.
 
+- **ORACLE SQL - KINO** - <a href="https://github.com/Dominik-Filipiak/Projekt_SQL" target="_blank"><button>Zobacz projekt</button></a>
+
 ## 📣 Kontakt
 
 - 📧 Email: [twój.email@example.com](mailto:twój.email@example.com)
