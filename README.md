@@ -7,7 +7,7 @@ Jestem studentem 3. roku Informatyki i Ekonomii na Uniwersytecie Ekonomicznym w 
 - **Języki programowania**: Python, Java
 - **Bazy danych**: MySQL, Oracle
 - **Narzędzia do analizy danych**: Power BI
-- **Technologie uczenia maszynowego**: Scikit-learn, TensorFlow, Pandas
+- **Technologie**: Scikit-learn, Pandas
 
 ## 📈 Projekty
 
