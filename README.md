@@ -5,7 +5,7 @@ Jestem studentem 3. roku Informatyki i Ekonomii na Uniwersytecie Ekonomicznym w 
 ## 🔧 Technologie i narzędzia, z którymi pracuję:
 
 - **Języki programowania**: Python, Java
-- **Bazy danych**: MySQL, Oracle
+- **Bazy danych**: Oracle
 - **Narzędzia do analizy danych**: Power BI
 - **Technologie**: Scikit-learn, Pandas
 
