@@ -21,9 +21,6 @@ Jestem studentem 3. roku Informatyki i Ekonomii na Uniwersytecie Ekonomicznym w 
 
 ## 📣 Kontakt
 
-- 📧 Email: [twój.email@example.com](mailto:twój.email@example.com)
-- 🌐 Strona internetowa: [twojastrona.com](http://twojastrona.com) (jeśli masz)
-- 💼 LinkedIn: [Twój LinkedIn](https://www.linkedin.com/in/twojprofil) (jeśli masz)
-- 🐦 Twitter: [Twój Twitter](https://twitter.com/twojprofil) (jeśli masz)
+- 📧 Email: [tomaszf600@gmail.com](mailto:tomaszf600@gmail.com)
 
 Dziękuję za odwiedzenie mojego profilu! Jeśli masz pytania lub chcesz porozmawiać na temat współpracy, nie wahaj się skontaktować! 
