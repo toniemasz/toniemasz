@@ -11,7 +11,7 @@ Jestem studentem 3. roku Informatyki i Ekonomii na Uniwersytecie Ekonomicznym w 
 
 ## Projekty z uczelni (UEP)
 
-<a href="https://github.com/toniemasz/PowerBI_projects" target="_blank"><button>Zobacz projekty</button></a>
+<a href="https://github.com/toniemasz/UczelniaProjekty" target="_blank"><button>Zobacz projekty</button></a>
 
 ## 📈 Projekty własne
 
