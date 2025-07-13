@@ -9,7 +9,11 @@ Jestem studentem 3. roku Informatyki i Ekonomii na Uniwersytecie Ekonomicznym w 
 - **Narzędzia do analizy danych**: Power BI
 - **Technologie**: Scikit-learn, Pandas
 
-## 📈 Projekty
+## Projekty z uczelni (UEP)
+
+<a href="https://github.com/toniemasz/PowerBI_projects" target="_blank"><button>Zobacz projekty</button></a>
+
+## 📈 Projekty własne
 
 - **Power BI** - <a href="https://github.com/toniemasz/PowerBI_projects" target="_blank"><button>Zobacz projekty</button></a>  
   Zajmuję się tworzeniem raportów i wizualizacji w Power BI. Projekty obejmują analizy danych sprzedażowych, jak i wyniki sportowe, w tym prognozy wyników meczów piłki nożnej.
