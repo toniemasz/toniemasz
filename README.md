@@ -1,6 +1,6 @@
 # Cześć, jestem Tomasz 👋
 
-Jestem studentem 3. roku Informatyki i Ekonomii na Uniwersytecie Ekonomicznym w Poznaniu. Zajmuję się programowaniem i analizą danych, a także rozwijam swoje umiejętności w zakresie uczenia maszynowego i sztucznej inteligencji. Aktualnie pracuję nad projektem przewidywania wyników meczów piłki nożnej za pomocą algorytmów uczenia maszynowego, który jest częścią mojej pracy licencjackiej.
+Jestem absolwentem Informatyki i Ekonomii na Uniwersytecie Ekonomicznym w Poznaniu.
 
 ## 🔧 Technologie i narzędzia, z którymi pracuję:
 
