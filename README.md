@@ -1,11 +1,11 @@
 # Cześć, jestem Tomasz 👋
 
-Jestem absolwentem Informatyki i Ekonomii na Uniwersytecie Ekonomicznym w Poznaniu.
+Jestem studentem 2 stopnia Informatyki i Ekonomii na Uniwersytecie Ekonomicznym w Poznaniu.
 
-## 🔧 Technologie i narzędzia, z którymi pracuję:
+## 🔧 Technologie i narzędzia:
 
-- **Języki programowania**: Python, Java
-- **Bazy danych**: Oracle
+- **Języki programowania**: Python
+- **Bazy danych**: SQL
 - **Narzędzia do analizy danych**: Power BI
 - **Technologie**: Scikit-learn, Pandas
 
