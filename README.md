@@ -23,8 +23,6 @@ Django, FastAPI, praca z API, aplikacje z bazą danych
 **Narzędzia:**
 Git, GitHub, Excel, Power BI, podstawy VBA
 
-**AI:**
-praktyczne korzystanie z narzędzi AI, m.in. ChatGPT i Gemini, podstawy promptowania
 
 ---
 
