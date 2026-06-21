@@ -42,6 +42,9 @@ Zakres projektu obejmuje:
 * rozwój funkcji pod realne potrzeby użytkownika,
 * nacisk na czytelność i użyteczność systemu.
 
+
+🔗 [Zobacz projekt](https://github.com/toniemasz/managerGospodarstwa)
+
 ---
 
 ### WCPredictorGame
@@ -57,6 +60,8 @@ Zakres projektu obejmuje:
 * przechowywanie typów użytkowników,
 * obsługę kilku aktywnych użytkowników,
 * pracę z bazą danych.
+
+🔗 [Zobacz projekt](https://github.com/toniemasz/WCPredictorGame)
 
 ---
 
@@ -93,10 +98,6 @@ Zakres projektu obejmuje:
 ---
 
 ### Projekty Power BI
-
-**Technologie:** Power BI, analiza danych, wizualizacja danych
-
-Tworzę raporty i wizualizacje w Power BI. Projekty obejmują analizy danych sprzedażowych oraz dane sportowe, w tym wyniki i prognozy meczów piłki nożnej.
 
 🔗 [Zobacz projekty Power BI](https://github.com/toniemasz/PowerBI_projects)
 
