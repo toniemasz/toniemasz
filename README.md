@@ -1,12 +1,12 @@
-# Cześć, jestem Tomasz Firlej 👋
+# Cześć, jestem Tomasz
 
 Jestem studentem II stopnia kierunku **Informatyka i ekonometria** na Uniwersytecie Ekonomicznym w Poznaniu oraz absolwentem studiów licencjackich na tym samym kierunku.
 
-Rozwijam się w obszarze **analizy danych, Pythona, aplikacji webowych z bazami danych oraz praktycznego wykorzystania AI w biznesie**. W projektach akademickich i własnych łączę programowanie, SQL, Git/GitHub, analizę danych oraz tworzenie prostych modeli predykcyjnych.
+Rozwijam się w obszarze **analizy danych, Pythona, aplikacji webowych z bazami danych**. W projektach akademickich i własnych łączę programowanie, SQL, Git/GitHub, analizę danych oraz tworzenie prostych modeli predykcyjnych.
 
 ---
 
-## 🔧 Technologie i narzędzia
+## Technologie i narzędzia
 
 **Języki programowania:**
 Python
@@ -26,7 +26,7 @@ Git, GitHub, Excel, Power BI, podstawy VBA
 
 ---
 
-## 📌 Projekty prywatne i akademickie
+## Projekty prywatne i akademickie
 
 ### Manager Gospodarstwa
 
@@ -144,4 +144,4 @@ Przewidywanie wyników meczów piłki nożnej z wykorzystaniem metod predykcyjny
 
 ---
 
-Dziękuję za odwiedzenie mojego profilu. Jestem otwarty na staże, pierwsze doświadczenia zawodowe oraz projekty związane z analizą danych, Pythonem, aplikacjami webowymi i praktycznym wykorzystaniem AI.
+Dziękuję za odwiedzenie mojego profilu. Jestem otwarty na staże, pierwsze doświadczenia zawodowe oraz projekty związane z analizą danych, Pythonem, aplikacjami webowymi.
